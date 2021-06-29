@@ -1604,6 +1604,8 @@
 <!--end::Global Theme Bundle-->
 <!--begin::Page Vendors(used by this page)-->
 <script src="<?= chemin("js/fullcalendar.bundle.js")?>"></script>
+<script src="<?= chemin("js/login-general.js")?>"></script>
+
 <!--end::Page Vendors-->
 <!--begin::Page Scripts(used by this page)-->
 <script src="<?= chemin("js/widgets.js")?>"></script>
