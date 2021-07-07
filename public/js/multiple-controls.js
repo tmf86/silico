@@ -23,21 +23,21 @@ var KTDatatablesAdvancedMultipleControls = function() {
 						return '\
 							<div class="dropdown dropdown-inline">\
 								<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" data-toggle="dropdown">\
-	                                <i class="la la-cog"></i>\
+	                                <i class="fa fa-cog"></i>\
 	                            </a>\
 							  	<div class="dropdown-menu dropdown-menu-sm dropdown-menu-right">\
 									<ul class="nav nav-hoverable flex-column">\
-							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon la la-edit"></i><span class="nav-text">Edit Details</span></a></li>\
-							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon la la-leaf"></i><span class="nav-text">Update Status</span></a></li>\
-							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon la la-print"></i><span class="nav-text">Print</span></a></li>\
+							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-edit"></i><span class="nav-text">Edit Details</span></a></li>\
+							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-leaf"></i><span class="nav-text">Update Status</span></a></li>\
+							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-print"></i><span class="nav-text">Print</span></a></li>\
 									</ul>\
 							  	</div>\
 							</div>\
 							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Edit details">\
-								<i class="la la-edit"></i>\
+								<i class="fa fa-edit"></i>\
 							</a>\
 							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Delete">\
-								<i class="la la-trash"></i>\
+								<i class="fa fa-trash"></i>\
 							</a>\
 						';
 					},

@@ -17,6 +17,8 @@
     <!--end::Fonts-->
     <!--begin::Page Vendors Styles(used by this page)-->
     <link href="<?= chemin("css/fullcalendar.bundle.css")?>" rel="stylesheet" type="text/css" />
+    <link href="<?= chemin("css/datatables.bundle.css")?>" rel="stylesheet" type="text/css" />
+
     <!--end::Page Vendors Styles-->
     <!--begin::Global Theme Styles(used by all pages)-->
     <link href="<?= chemin("css/plugins.bundle.css")?>" rel="stylesheet" type="text/css" />
