@@ -52,7 +52,7 @@ var KTLogin = function() {
 				setTimeout(function() {
 					KTUtil.btnRelease(formSubmitButton);
 				}, 2000);
-
+					window.location="http://localhost/silico/index.php?pg"
 				// Form Validation & Ajax Submission: https://formvalidation.io/guide/examples/using-ajax-to-submit-the-form
 				/**
 		        FormValidation.utils.fetch(formSubmitUrl, {

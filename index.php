@@ -30,12 +30,15 @@ function chemin ($ch){
 function chemin_1 ($ch){
     return "localhost/metronic_template_php/pages/".$ch;
 }
-require "pages/layout/header.php";
-$p= isset($_GET["page"])?$_GET["page"]:"home";
-$pages="pages/".$p.".php";
-if (file_exists($pages)){
-    require $pages;
-}else{
-    require "pages/home.php";
-}
-require "pages/layout/footer.php";
+
+    require "pages/layout/header.php";
+    $p= isset($_GET["page"])?$_GET["page"]:"home";
+    $pages="pages/".$p.".php";
+    if (file_exists($pages)){
+        require $pages;
+    }else{
+        require "pages/home.php";
+    }
+    require "pages/layout/footer.php";
+
+

@@ -203,6 +203,21 @@
                             <th>nbr Crystal</th>
                             <th>Status</th>
                             <th>Weight</th>
+                            <th>Nbr AA</th>
+                            <th>Charge</th>
+                            <th>Structure 2D</th>
+                            <th>Small</th>
+                            <th>Tiny</th>
+                            <th>Hydrophobe</th>
+                            <th>Polar</th>
+                            <th>Aliphatic</th>
+                            <th>Aromatic</th>
+                            <th>Charged</th>
+                            <th>Positive</th>
+                            <th>Negative</th>
+                            <th>Hydrophobicity </th>
+                            <th>NN</th>
+                            <th>Description</th>
                             <th>Actions</th>
                         </tr>
                         </thead>
@@ -218,6 +233,21 @@
                             <td>10/15/2017</td>
                             <td>5</td>
                             <td>1</td>
+                            <td>Nbr AA</td>
+                            <td>Charge</td>
+                            <td>Structure 2D</td>
+                            <td>Small</td>
+                            <td>Tiny</td>
+                            <td>Hydrophobe</td>
+                            <td>Polar</td>
+                            <td>Aliphatic</td>
+                            <td>Aromatic</td>
+                            <td>Charged</td>
+                            <td>Positive</td>
+                            <td>Negative</td>
+                            <td>Hydrophobicity </td>
+                            <td>NN</td>
+                            <td>Description</td>
                             <td nowrap="nowrap"></td>
                         </tr>
                         <tr>
@@ -231,6 +261,21 @@
                             <td>4/24/2016</td>
                             <td>2</td>
                             <td>2</td>
+                            <td>Nbr AA</td>
+                            <td>Charge</td>
+                            <td>Structure 2D</td>
+                            <td>Small</td>
+                            <td>Tiny</td>
+                            <td>Hydrophobe</td>
+                            <td>Polar</td>
+                            <td>Aliphatic</td>
+                            <td>Aromatic</td>
+                            <td>Charged</td>
+                            <td>Positive</td>
+                            <td>Negative</td>
+                            <td>Hydrophobicity </td>
+                            <td>NN</td>
+                            <td>Description</td>
                             <td nowrap="nowrap"></td>
                         </tr>
                         <tr>
@@ -257,6 +302,21 @@
                             <td>3/17/2017</td>
                             <td>5</td>
                             <td>2</td>
+                            <td>Nbr AA</td>
+                            <td>Charge</td>
+                            <td>Structure 2D</td>
+                            <td>Small</td>
+                            <td>Tiny</td>
+                            <td>Hydrophobe</td>
+                            <td>Polar</td>
+                            <td>Aliphatic</td>
+                            <td>Aromatic</td>
+                            <td>Charged</td>
+                            <td>Positive</td>
+                            <td>Negative</td>
+                            <td>Hydrophobicity </td>
+                            <td>NN</td>
+                            <td>Description</td>
                             <td nowrap="nowrap"></td>
                         </tr>
                         <tr>
@@ -270,6 +330,21 @@
                             <td>7/10/2016</td>
                             <td>5</td>
                             <td>2</td>
+                            <td>Nbr AA</td>
+                            <td>Charge</td>
+                            <td>Structure 2D</td>
+                            <td>Small</td>
+                            <td>Tiny</td>
+                            <td>Hydrophobe</td>
+                            <td>Polar</td>
+                            <td>Aliphatic</td>
+                            <td>Aromatic</td>
+                            <td>Charged</td>
+                            <td>Positive</td>
+                            <td>Negative</td>
+                            <td>Hydrophobicity </td>
+                            <td>NN</td>
+                            <td>Description</td>
                             <td nowrap="nowrap"></td>
                         </tr>
                         <tr>
@@ -283,6 +358,21 @@
                             <td>5/24/2016</td>
                             <td>4</td>
                             <td>2</td>
+                            <td>Nbr AA</td>
+                            <td>Charge</td>
+                            <td>Structure 2D</td>
+                            <td>Small</td>
+                            <td>Tiny</td>
+                            <td>Hydrophobe</td>
+                            <td>Polar</td>
+                            <td>Aliphatic</td>
+                            <td>Aromatic</td>
+                            <td>Charged</td>
+                            <td>Positive</td>
+                            <td>Negative</td>
+                            <td>Hydrophobicity </td>
+                            <td>NN</td>
+                            <td>Description</td>
                             <td nowrap="nowrap"></td>
                         </tr>
                         <tr>
@@ -296,6 +386,21 @@
                             <td>11/1/2016</td>
                             <td>2</td>
                             <td>3</td>
+                            <td>Nbr AA</td>
+                            <td>Charge</td>
+                            <td>Structure 2D</td>
+                            <td>Small</td>
+                            <td>Tiny</td>
+                            <td>Hydrophobe</td>
+                            <td>Polar</td>
+                            <td>Aliphatic</td>
+                            <td>Aromatic</td>
+                            <td>Charged</td>
+                            <td>Positive</td>
+                            <td>Negative</td>
+                            <td>Hydrophobicity </td>
+                            <td>NN</td>
+                            <td>Description</td>
                             <td nowrap="nowrap"></td>
                         </tr>
                         <tr>
@@ -309,6 +414,21 @@
                             <td>9/15/2017</td>
                             <td>3</td>
                             <td>1</td>
+                            <td>Nbr AA</td>
+                            <td>Charge</td>
+                            <td>Structure 2D</td>
+                            <td>Small</td>
+                            <td>Tiny</td>
+                            <td>Hydrophobe</td>
+                            <td>Polar</td>
+                            <td>Aliphatic</td>
+                            <td>Aromatic</td>
+                            <td>Charged</td>
+                            <td>Positive</td>
+                            <td>Negative</td>
+                            <td>Hydrophobicity </td>
+                            <td>NN</td>
+                            <td>Description</td>
                             <td nowrap="nowrap"></td>
                         </tr>
                         </tbody>
