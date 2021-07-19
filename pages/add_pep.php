@@ -23,7 +23,7 @@
             <!--begin::Toolbar-->
             <div class="d-flex align-items-center">
                 <!--begin::Button-->
-                <a href="/metronic/demo1/#.html" class="btn btn-default font-weight-bold">Back</a>
+                <a href="?page=list_pep" class="btn btn-default font-weight-bold">Back</a>
                 <!--end::Button-->
                 <!--begin::Dropdown-->
                 <div class="btn-group ml-2">
@@ -100,8 +100,8 @@
                                     </div>
                                     <span class="svg-icon svg-icon-xl wizard-arrow">
 															<!--begin::Svg Icon | path:/metronic/theme/html/demo1/dist/assets/media/svg/icons/Navigation/Arrow-right.svg-->
-														                                                                <svg height="511pt" viewBox="1 1 511.99975 511" width="511pt" xmlns="http://www.w3.org/2000/svg"><path d="m279.210938 357.441406c-1.976563 0-3.957032-.753906-5.46875-2.265625l-117.464844-117.464843c-3.019532-3.019532-3.019532-7.917969 0-10.941407 3.023437-3.019531 7.921875-3.019531 10.941406 0l117.464844 117.464844c3.019531 3.019531 3.019531 7.921875 0 10.941406-1.511719 1.511719-3.492188 2.265625-5.472656 2.265625zm0 0" fill="#8ac129"/><path d="m329.269531 337.507812c-1.980469 0-3.960937-.757812-5.46875-2.265624l-147.28125-147.28125c-3.023437-3.019532-3.023437-7.921876 0-10.941407 3.019531-3.023437 7.921875-3.023437 10.941407 0l147.28125 147.277344c3.019531 3.023437 3.019531 7.921875 0 10.945313-1.511719 1.507812-3.492188 2.265624-5.472657 2.265624zm0 0" fill="#ff4c4c"/><path d="m349.207031 287.449219c-1.980469 0-3.960937-.753907-5.472656-2.265625l-117.464844-117.464844c-3.019531-3.019531-3.019531-7.921875 0-10.941406 3.023438-3.023438 7.921875-3.023438 10.945313 0l117.460937 117.460937c3.023438 3.023438 3.023438 7.921875 0 10.945313-1.511719 1.511718-3.492187 2.265625-5.46875 2.265625zm0 0" fill="#8ac129"/><path d="m467.113281 165.089844c-1.980469 0-3.957031-.753906-5.46875-2.265625l-111.859375-111.855469c-3.019531-3.023438-3.019531-7.921875 0-10.941406 3.023438-3.023438 7.921875-3.023438 10.945313 0l111.855469 111.855468c3.023437 3.023438 3.023437 7.921876 0 10.941407-1.511719 1.511719-3.492188 2.265625-5.472657 2.265625zm0 0" fill="#ff4c4c"/><path d="m156.855469 475.351562c-1.980469 0-3.960938-.753906-5.472657-2.265624l-111.859374-111.859376c-3.019532-3.019531-3.019532-7.917968 0-10.941406 3.023437-3.019531 7.921874-3.019531 10.945312 0l111.859375 111.859375c3.019531 3.019531 3.019531 7.921875 0 10.941407-1.511719 1.511718-3.492187 2.265624-5.472656 2.265624zm0 0" fill="#ff4c4c"/><path d="m142.320312 325.308594c-47.640624-9.007813-97.226562-10.441406-137.324218 29.652344-6.660156 6.664062-6.664063 17.464843 0 24.128906 6.664062 6.664062 17.464844 6.660156 24.128906 0 32.511719-32.511719 73.894531-27.742188 121.542969-17.261719-2.699219-12.277344-5.667969-24.507813-8.347657-36.519531zm0 0" fill="#ffbf14"/><path d="m142.320312 325.308594c-7.097656-1.34375-14.238281-2.515625-21.386718-3.410156 2.585937 11.816406 5.417968 23.496093 8.140625 35.601562 7.042969 1.230469 14.246093 2.710938 21.59375 4.328125-2.714844-12.34375-5.660157-24.472656-8.347657-36.519531zm0 0" fill="#e0a812"/><path d="m378.589844 29.625c6.664062-6.664062 6.664062-17.464844 0-24.128906-6.660156-6.664063-17.464844-6.660156-24.125 0-95.144532 95.144531 43.183594 237.292968-34.496094 314.972656-36.816406 36.820312-85.011719 25.828125-140.804688 12.867188 2.851563 12.257812 5.714844 24.605468 8.027344 36.84375 53.359375 11.894531 111.277344 20.046874 156.90625-25.582032 95.382813-95.386718-43.160156-237.320312 34.492188-314.972656zm0 0" fill="#ffbf14"/><path d="m187.191406 370.179688c6.382813 1.421874 12.828125 2.792968 19.308594 4.019531-2.183594-12.207031-4.925781-24.292969-7.730469-36.390625-6.421875-1.410156-12.960937-2.929688-19.609375-4.472656 2.851563 12.25 5.703125 24.523437 8.03125 36.84375zm0 0" fill="#e0a812"/><path d="m332.835938 179.660156c-2.84375-12.210937-5.738282-24.730468-8.027344-36.839844-53.359375-11.894531-111.277344-20.046874-156.90625 25.582032-94.941406 94.945312 42.894531 237.585937-34.492188 314.972656-6.664062 6.660156-6.664062 17.464844 0 24.125 6.664063 6.664062 17.464844 6.664062 24.125 0 95.746094-95.742188-43.59375-236.882812 34.496094-314.96875 36.820312-36.820312 85.011719-25.828125 140.804688-12.871094zm0 0" fill="#45748c"/><path d="m324.808594 142.820312c-6.535156-1.457031-13.132813-2.855468-19.773438-4.109374 2.097656 12.175781 4.785156 24.257812 7.578125 36.34375 6.621094 1.449218 13.367188 3.011718 20.222657 4.605468-2.84375-12.210937-5.738282-24.730468-8.027344-36.839844zm0 0" fill="#3a6175"/><path d="m507.003906 133.910156c-6.664062-6.664062-17.464844-6.664062-24.128906 0-32.511719 32.511719-73.894531 27.742188-121.546875 17.261719 2.726563 12.382813 5.664063 24.460937 8.351563 36.519531 52.703124 9.964844 99.421874 8.246094 137.324218-29.65625 6.660156-6.660156 6.660156-17.464844 0-24.125zm0 0" fill="#45748c"/><path d="m380.238281 155.019531c-6.183593-1.128906-12.492187-2.4375-18.910156-3.847656 2.726563 12.382813 5.664063 24.460937 8.351563 36.519531 6.21875 1.175782 12.46875 2.222656 18.730468 3.0625-2.535156-11.558594-5.484375-23.757812-8.171875-35.734375zm0 0" fill="#3a6175"/></svg>
-
+                                        <svg height="511pt" viewBox="1 1 511.99975 511" width="511pt" xmlns="http://www.w3.org/2000/svg"><path d="m279.210938 357.441406c-1.976563 0-3.957032-.753906-5.46875-2.265625l-117.464844-117.464843c-3.019532-3.019532-3.019532-7.917969 0-10.941407 3.023437-3.019531 7.921875-3.019531 10.941406 0l117.464844 117.464844c3.019531 3.019531 3.019531 7.921875 0 10.941406-1.511719 1.511719-3.492188 2.265625-5.472656 2.265625zm0 0" fill="#8ac129"/><path d="m329.269531 337.507812c-1.980469 0-3.960937-.757812-5.46875-2.265624l-147.28125-147.28125c-3.023437-3.019532-3.023437-7.921876 0-10.941407 3.019531-3.023437 7.921875-3.023437 10.941407 0l147.28125 147.277344c3.019531 3.023437 3.019531 7.921875 0 10.945313-1.511719 1.507812-3.492188 2.265624-5.472657 2.265624zm0 0" fill="#ff4c4c"/><path d="m349.207031 287.449219c-1.980469 0-3.960937-.753907-5.472656-2.265625l-117.464844-117.464844c-3.019531-3.019531-3.019531-7.921875 0-10.941406 3.023438-3.023438 7.921875-3.023438 10.945313 0l117.460937 117.460937c3.023438 3.023438 3.023438 7.921875 0 10.945313-1.511719 1.511718-3.492187 2.265625-5.46875 2.265625zm0 0" fill="#8ac129"/><path d="m467.113281 165.089844c-1.980469 0-3.957031-.753906-5.46875-2.265625l-111.859375-111.855469c-3.019531-3.023438-3.019531-7.921875 0-10.941406 3.023438-3.023438 7.921875-3.023438 10.945313 0l111.855469 111.855468c3.023437 3.023438 3.023437 7.921876 0 10.941407-1.511719 1.511719-3.492188 2.265625-5.472657 2.265625zm0 0" fill="#ff4c4c"/><path d="m156.855469 475.351562c-1.980469 0-3.960938-.753906-5.472657-2.265624l-111.859374-111.859376c-3.019532-3.019531-3.019532-7.917968 0-10.941406 3.023437-3.019531 7.921874-3.019531 10.945312 0l111.859375 111.859375c3.019531 3.019531 3.019531 7.921875 0 10.941407-1.511719 1.511718-3.492187 2.265624-5.472656 2.265624zm0 0" fill="#ff4c4c"/><path d="m142.320312 325.308594c-47.640624-9.007813-97.226562-10.441406-137.324218 29.652344-6.660156 6.664062-6.664063 17.464843 0 24.128906 6.664062 6.664062 17.464844 6.660156 24.128906 0 32.511719-32.511719 73.894531-27.742188 121.542969-17.261719-2.699219-12.277344-5.667969-24.507813-8.347657-36.519531zm0 0" fill="#ffbf14"/><path d="m142.320312 325.308594c-7.097656-1.34375-14.238281-2.515625-21.386718-3.410156 2.585937 11.816406 5.417968 23.496093 8.140625 35.601562 7.042969 1.230469 14.246093 2.710938 21.59375 4.328125-2.714844-12.34375-5.660157-24.472656-8.347657-36.519531zm0 0" fill="#e0a812"/><path d="m378.589844 29.625c6.664062-6.664062 6.664062-17.464844 0-24.128906-6.660156-6.664063-17.464844-6.660156-24.125 0-95.144532 95.144531 43.183594 237.292968-34.496094 314.972656-36.816406 36.820312-85.011719 25.828125-140.804688 12.867188 2.851563 12.257812 5.714844 24.605468 8.027344 36.84375 53.359375 11.894531 111.277344 20.046874 156.90625-25.582032 95.382813-95.386718-43.160156-237.320312 34.492188-314.972656zm0 0" fill="#ffbf14"/><path d="m187.191406 370.179688c6.382813 1.421874 12.828125 2.792968 19.308594 4.019531-2.183594-12.207031-4.925781-24.292969-7.730469-36.390625-6.421875-1.410156-12.960937-2.929688-19.609375-4.472656 2.851563 12.25 5.703125 24.523437 8.03125 36.84375zm0 0" fill="#e0a812"/><path d="m332.835938 179.660156c-2.84375-12.210937-5.738282-24.730468-8.027344-36.839844-53.359375-11.894531-111.277344-20.046874-156.90625 25.582032-94.941406 94.945312 42.894531 237.585937-34.492188 314.972656-6.664062 6.660156-6.664062 17.464844 0 24.125 6.664063 6.664062 17.464844 6.664062 24.125 0 95.746094-95.742188-43.59375-236.882812 34.496094-314.96875 36.820312-36.820312 85.011719-25.828125 140.804688-12.871094zm0 0" fill="#45748c"/><path d="m324.808594 142.820312c-6.535156-1.457031-13.132813-2.855468-19.773438-4.109374 2.097656 12.175781 4.785156 24.257812 7.578125 36.34375 6.621094 1.449218 13.367188 3.011718 20.222657 4.605468-2.84375-12.210937-5.738282-24.730468-8.027344-36.839844zm0 0" fill="#3a6175"/><path d="m507.003906 133.910156c-6.664062-6.664062-17.464844-6.664062-24.128906 0-32.511719 32.511719-73.894531 27.742188-121.546875 17.261719 2.726563 12.382813 5.664063 24.460937 8.351563 36.519531 52.703124 9.964844 99.421874 8.246094 137.324218-29.65625 6.660156-6.660156 6.660156-17.464844 0-24.125zm0 0" fill="#45748c"/><path d="m380.238281 155.019531c-6.183593-1.128906-12.492187-2.4375-18.910156-3.847656 2.726563 12.382813 5.664063 24.460937 8.351563 36.519531 6.21875 1.175782 12.46875 2.222656 18.730468 3.0625-2.535156-11.558594-5.484375-23.757812-8.171875-35.734375zm0 0" fill="#3a6175"/>
+                                                                                                                        </svg>
                                         <!--end::Svg Icon-->
 														</span>
                                 </div>
@@ -174,9 +174,9 @@
                                                     </div>
                                                 </div>
                                                 <div class="form-group row">
-                                                    <label class="col-xl-3 col-lg-3 col-form-label">Peptide Family</label>
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="fkFamily">Peptide Family</label>
                                                     <div class="col-lg-9 col-xl-9">
-                                                        <select name="fkFamily" class="form-control form-control-lg form-control-solid">
+                                                        <select name="fkFamily" id="fkFamily" class="form-control form-control-lg form-control-solid">
                                                             <option>Select Family...</option>
                                                             <option value="oligopeptides">Oligopeptides</option>
                                                             <option value="dipeptides">Dipeptides</option>
@@ -213,24 +213,35 @@
                                                     </div>
                                                 </div>
                                                 <div class="form-group row">
-                                                    <label class="col-xl-3 col-lg-3 col-form-label">Peptide Size</label>
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="sizePeptide">Peptide Size</label>
                                                     <div class="col-lg-9 col-xl-9">
                                                         <div class="input-group input-group-lg input-group-solid">
-                                                            <input type="text" class="form-control form-control-lg form-control-solid" name="companywebsite" placeholder="Username" value="loop" />
-                                                            <div class="input-group-append">
-                                                                <span class="input-group-text">.com</span>
-                                                            </div>
+                                                            <input type="number" class="form-control form-control-lg form-control-solid" id="sizePeptide" name="sizePeptide" placeholder="size"  />
+<!--                                                            <div class="input-group-append">-->
+<!--                                                                <span class="input-group-text">.com</span>-->
+<!--                                                            </div>-->
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="form-group row">
-                                                    <label class="col-xl-3 col-lg-3 col-form-label">Company Site</label>
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="nbCrystPeptide">Number Crystal Peptide</label>
                                                     <div class="col-lg-9 col-xl-9">
                                                         <div class="input-group input-group-lg input-group-solid">
-                                                            <input type="text" class="form-control form-control-lg form-control-solid" name="companywebsite" placeholder="Username" value="loop" />
-                                                            <div class="input-group-append">
-                                                                <span class="input-group-text">.com</span>
-                                                            </div>
+                                                            <input type="number" class="form-control form-control-lg form-control-solid" id="sizePeptide" name="nbCrystPeptide" placeholder="Number Crystal"  />
+<!--                                                            <div class="input-group-append">-->
+<!--                                                                <span class="input-group-text">.com</span>-->
+<!--                                                            </div>-->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="weightPeptide">Weight Peptide</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <div class="input-group input-group-lg input-group-solid">
+                                                            <input type="number" class="form-control form-control-lg form-control-solid" id="weightPeptide" name="weightPeptide" placeholder="Weight"  />
+<!--                                                            <div class="input-group-append">-->
+<!--                                                                <span class="input-group-text">.com</span>-->
+<!--                                                            </div>-->
                                                         </div>
                                                     </div>
                                                 </div>
@@ -244,583 +255,215 @@
                                             <div class="col-xl-12">
                                                 <div class="form-group row">
                                                     <div class="col-lg-9 col-xl-6">
-                                                        <h3 class="mb-10 font-weight-bold text-dark">Project Settings</h3>
+                                                        <h3 class="mb-10 font-weight-bold text-dark">Peptide Details 2</h3>
                                                     </div>
                                                 </div>
                                                 <div class="form-group row">
-                                                    <label class="col-xl-3 col-lg-3 col-form-label">Language</label>
+                                                    <label class="col-xl-3 col-lg-3 col-form-label">Number amino acids</label>
                                                     <div class="col-lg-9 col-xl-9">
-                                                        <select name="language" class="form-control form-control-lg form-control-solid">
-                                                            <option>Select Language...</option>
-                                                            <option value="id">Bahasa Indonesia - Indonesian</option>
-                                                            <option value="msa">Bahasa Melayu - Malay</option>
-                                                            <option value="ca">Català - Catalan</option>
-                                                            <option value="cs">Čeština - Czech</option>
-                                                            <option value="da">Dansk - Danish</option>
-                                                            <option value="de">Deutsch - German</option>
-                                                            <option value="en" selected="selected">English</option>
-                                                            <option value="en-gb">English UK - British English</option>
-                                                            <option value="es">Español - Spanish</option>
-                                                            <option value="eu">Euskara - Basque (beta)</option>
-                                                            <option value="fil">Filipino</option>
-                                                            <option value="fr">Français - French</option>
-                                                            <option value="ga">Gaeilge - Irish (beta)</option>
-                                                            <option value="gl">Galego - Galician (beta)</option>
-                                                            <option value="hr">Hrvatski - Croatian</option>
-                                                            <option value="it">Italiano - Italian</option>
-                                                            <option value="hu">Magyar - Hungarian</option>
-                                                            <option value="nl">Nederlands - Dutch</option>
-                                                            <option value="no">Norsk - Norwegian</option>
-                                                            <option value="pl">Polski - Polish</option>
-                                                            <option value="pt">Português - Portuguese</option>
-                                                            <option value="ro">Română - Romanian</option>
-                                                            <option value="sk">Slovenčina - Slovak</option>
-                                                            <option value="fi">Suomi - Finnish</option>
-                                                            <option value="sv">Svenska - Swedish</option>
-                                                            <option value="vi">Tiếng Việt - Vietnamese</option>
-                                                            <option value="tr">Türkçe - Turkish</option>
-                                                            <option value="el">Ελληνικά - Greek</option>
-                                                            <option value="bg">Български език - Bulgarian</option>
-                                                            <option value="ru">Русский - Russian</option>
-                                                            <option value="sr">Српски - Serbian</option>
-                                                            <option value="uk">Українська мова - Ukrainian</option>
-                                                            <option value="he">עִבְרִית - Hebrew</option>
-                                                            <option value="ur">اردو - Urdu (beta)</option>
-                                                            <option value="ar">العربية - Arabic</option>
-                                                            <option value="fa">فارسی - Persian</option>
-                                                            <option value="mr">मराठी - Marathi</option>
-                                                            <option value="hi">हिन्दी - Hindi</option>
-                                                            <option value="bn">বাংলা - Bangla</option>
-                                                            <option value="gu">ગુજરાતી - Gujarati</option>
-                                                            <option value="ta">தமிழ் - Tamil</option>
-                                                            <option value="kn">ಕನ್ನಡ - Kannada</option>
-                                                            <option value="th">ภาษาไทย - Thai</option>
-                                                            <option value="ko">한국어 - Korean</option>
-                                                            <option value="ja">日本語 - Japanese</option>
-                                                            <option value="zh-cn">简体中文 - Simplified Chinese</option>
-                                                            <option value="zh-tw">繁體中文 - Traditional Chinese</option>
-                                                        </select>
+                                                        <input class="form-control form-control-lg form-control-solid" id="pepName" name="nbAA" type="number" placeholder="amino acids" />
                                                     </div>
                                                 </div>
                                                 <div class="form-group row">
-                                                    <label class="col-xl-3 col-lg-3 col-form-label">Time Zone</label>
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="chargePeptide">Charge Peptide</label>
                                                     <div class="col-lg-9 col-xl-9">
-                                                        <select name="timezone" class="form-control form-control-lg form-control-solid">
-                                                            <option data-offset="-39600" value="International Date Line West">(GMT-11:00) International Date Line West</option>
-                                                            <option data-offset="-39600" value="Midway Island">(GMT-11:00) Midway Island</option>
-                                                            <option data-offset="-39600" value="Samoa">(GMT-11:00) Samoa</option>
-                                                            <option data-offset="-36000" value="Hawaii">(GMT-10:00) Hawaii</option>
-                                                            <option data-offset="-28800" value="Alaska">(GMT-08:00) Alaska</option>
-                                                            <option data-offset="-25200" value="Pacific Time (US &amp; Canada)">(GMT-07:00) Pacific Time (US &amp; Canada)</option>
-                                                            <option data-offset="-25200" value="Tijuana">(GMT-07:00) Tijuana</option>
-                                                            <option data-offset="-25200" value="Arizona">(GMT-07:00) Arizona</option>
-                                                            <option data-offset="-21600" value="Mountain Time (US &amp; Canada)">(GMT-06:00) Mountain Time (US &amp; Canada)</option>
-                                                            <option data-offset="-21600" value="Chihuahua">(GMT-06:00) Chihuahua</option>
-                                                            <option data-offset="-21600" value="Mazatlan">(GMT-06:00) Mazatlan</option>
-                                                            <option data-offset="-21600" value="Saskatchewan">(GMT-06:00) Saskatchewan</option>
-                                                            <option data-offset="-21600" value="Central America">(GMT-06:00) Central America</option>
-                                                            <option data-offset="-18000" value="Central Time (US &amp; Canada)">(GMT-05:00) Central Time (US &amp; Canada)</option>
-                                                            <option data-offset="-18000" value="Guadalajara">(GMT-05:00) Guadalajara</option>
-                                                            <option data-offset="-18000" value="Mexico City">(GMT-05:00) Mexico City</option>
-                                                            <option data-offset="-18000" value="Monterrey">(GMT-05:00) Monterrey</option>
-                                                            <option data-offset="-18000" value="Bogota">(GMT-05:00) Bogota</option>
-                                                            <option data-offset="-18000" value="Lima">(GMT-05:00) Lima</option>
-                                                            <option data-offset="-18000" value="Quito">(GMT-05:00) Quito</option>
-                                                            <option data-offset="-14400" value="Eastern Time (US &amp; Canada)">(GMT-04:00) Eastern Time (US &amp; Canada)</option>
-                                                            <option data-offset="-14400" value="Indiana (East)">(GMT-04:00) Indiana (East)</option>
-                                                            <option data-offset="-14400" value="Caracas">(GMT-04:00) Caracas</option>
-                                                            <option data-offset="-14400" value="La Paz">(GMT-04:00) La Paz</option>
-                                                            <option data-offset="-14400" value="Georgetown">(GMT-04:00) Georgetown</option>
-                                                            <option data-offset="-10800" value="Atlantic Time (Canada)">(GMT-03:00) Atlantic Time (Canada)</option>
-                                                            <option data-offset="-10800" value="Santiago">(GMT-03:00) Santiago</option>
-                                                            <option data-offset="-10800" value="Brasilia">(GMT-03:00) Brasilia</option>
-                                                            <option data-offset="-10800" value="Buenos Aires">(GMT-03:00) Buenos Aires</option>
-                                                            <option data-offset="-9000" value="Newfoundland">(GMT-02:30) Newfoundland</option>
-                                                            <option data-offset="-7200" value="Greenland">(GMT-02:00) Greenland</option>
-                                                            <option data-offset="-7200" value="Mid-Atlantic">(GMT-02:00) Mid-Atlantic</option>
-                                                            <option data-offset="-3600" value="Cape Verde Is.">(GMT-01:00) Cape Verde Is.</option>
-                                                            <option data-offset="0" value="Azores">(GMT) Azores</option>
-                                                            <option data-offset="0" value="Monrovia">(GMT) Monrovia</option>
-                                                            <option data-offset="0" value="UTC">(GMT) UTC</option>
-                                                            <option data-offset="3600" value="Dublin">(GMT+01:00) Dublin</option>
-                                                            <option data-offset="3600" value="Edinburgh">(GMT+01:00) Edinburgh</option>
-                                                            <option data-offset="3600" value="Lisbon">(GMT+01:00) Lisbon</option>
-                                                            <option data-offset="3600" value="London">(GMT+01:00) London</option>
-                                                            <option data-offset="3600" value="Casablanca">(GMT+01:00) Casablanca</option>
-                                                            <option data-offset="3600" value="West Central Africa">(GMT+01:00) West Central Africa</option>
-                                                            <option data-offset="7200" value="Belgrade">(GMT+02:00) Belgrade</option>
-                                                            <option data-offset="7200" value="Bratislava">(GMT+02:00) Bratislava</option>
-                                                            <option data-offset="7200" value="Budapest">(GMT+02:00) Budapest</option>
-                                                            <option data-offset="7200" value="Ljubljana">(GMT+02:00) Ljubljana</option>
-                                                            <option data-offset="7200" value="Prague">(GMT+02:00) Prague</option>
-                                                            <option data-offset="7200" value="Sarajevo">(GMT+02:00) Sarajevo</option>
-                                                            <option data-offset="7200" value="Skopje">(GMT+02:00) Skopje</option>
-                                                            <option data-offset="7200" value="Warsaw">(GMT+02:00) Warsaw</option>
-                                                            <option data-offset="7200" value="Zagreb">(GMT+02:00) Zagreb</option>
-                                                            <option data-offset="7200" value="Brussels">(GMT+02:00) Brussels</option>
-                                                            <option data-offset="7200" value="Copenhagen">(GMT+02:00) Copenhagen</option>
-                                                            <option data-offset="7200" value="Madrid">(GMT+02:00) Madrid</option>
-                                                            <option data-offset="7200" value="Paris">(GMT+02:00) Paris</option>
-                                                            <option data-offset="7200" value="Amsterdam">(GMT+02:00) Amsterdam</option>
-                                                            <option data-offset="7200" value="Berlin">(GMT+02:00) Berlin</option>
-                                                            <option data-offset="7200" value="Bern">(GMT+02:00) Bern</option>
-                                                            <option data-offset="7200" value="Rome">(GMT+02:00) Rome</option>
-                                                            <option data-offset="7200" value="Stockholm">(GMT+02:00) Stockholm</option>
-                                                            <option data-offset="7200" value="Vienna">(GMT+02:00) Vienna</option>
-                                                            <option data-offset="7200" value="Cairo">(GMT+02:00) Cairo</option>
-                                                            <option data-offset="7200" value="Harare">(GMT+02:00) Harare</option>
-                                                            <option data-offset="7200" value="Pretoria">(GMT+02:00) Pretoria</option>
-                                                            <option data-offset="10800" value="Bucharest">(GMT+03:00) Bucharest</option>
-                                                            <option data-offset="10800" value="Helsinki">(GMT+03:00) Helsinki</option>
-                                                            <option data-offset="10800" value="Kiev">(GMT+03:00) Kiev</option>
-                                                            <option data-offset="10800" value="Kyiv">(GMT+03:00) Kyiv</option>
-                                                            <option data-offset="10800" value="Riga">(GMT+03:00) Riga</option>
-                                                            <option data-offset="10800" value="Sofia">(GMT+03:00) Sofia</option>
-                                                            <option data-offset="10800" value="Tallinn">(GMT+03:00) Tallinn</option>
-                                                            <option data-offset="10800" value="Vilnius">(GMT+03:00) Vilnius</option>
-                                                            <option data-offset="10800" value="Athens">(GMT+03:00) Athens</option>
-                                                            <option data-offset="10800" value="Istanbul">(GMT+03:00) Istanbul</option>
-                                                            <option data-offset="10800" value="Minsk">(GMT+03:00) Minsk</option>
-                                                            <option data-offset="10800" value="Jerusalem">(GMT+03:00) Jerusalem</option>
-                                                            <option data-offset="10800" value="Moscow">(GMT+03:00) Moscow</option>
-                                                            <option data-offset="10800" value="St. Petersburg">(GMT+03:00) St. Petersburg</option>
-                                                            <option data-offset="10800" value="Volgograd">(GMT+03:00) Volgograd</option>
-                                                            <option data-offset="10800" value="Kuwait">(GMT+03:00) Kuwait</option>
-                                                            <option data-offset="10800" value="Riyadh">(GMT+03:00) Riyadh</option>
-                                                            <option data-offset="10800" value="Nairobi">(GMT+03:00) Nairobi</option>
-                                                            <option data-offset="10800" value="Baghdad">(GMT+03:00) Baghdad</option>
-                                                            <option data-offset="14400" value="Abu Dhabi">(GMT+04:00) Abu Dhabi</option>
-                                                            <option data-offset="14400" value="Muscat">(GMT+04:00) Muscat</option>
-                                                            <option data-offset="14400" value="Baku">(GMT+04:00) Baku</option>
-                                                            <option data-offset="14400" value="Tbilisi">(GMT+04:00) Tbilisi</option>
-                                                            <option data-offset="14400" value="Yerevan">(GMT+04:00) Yerevan</option>
-                                                            <option data-offset="16200" value="Tehran">(GMT+04:30) Tehran</option>
-                                                            <option data-offset="16200" value="Kabul">(GMT+04:30) Kabul</option>
-                                                            <option data-offset="18000" value="Ekaterinburg">(GMT+05:00) Ekaterinburg</option>
-                                                            <option data-offset="18000" value="Islamabad">(GMT+05:00) Islamabad</option>
-                                                            <option data-offset="18000" value="Karachi">(GMT+05:00) Karachi</option>
-                                                            <option data-offset="18000" value="Tashkent">(GMT+05:00) Tashkent</option>
-                                                            <option data-offset="19800" value="Chennai">(GMT+05:30) Chennai</option>
-                                                            <option data-offset="19800" value="Kolkata">(GMT+05:30) Kolkata</option>
-                                                            <option data-offset="19800" value="Mumbai">(GMT+05:30) Mumbai</option>
-                                                            <option data-offset="19800" value="New Delhi">(GMT+05:30) New Delhi</option>
-                                                            <option data-offset="19800" value="Sri Jayawardenepura">(GMT+05:30) Sri Jayawardenepura</option>
-                                                            <option data-offset="20700" value="Kathmandu">(GMT+05:45) Kathmandu</option>
-                                                            <option data-offset="21600" value="Astana">(GMT+06:00) Astana</option>
-                                                            <option data-offset="21600" value="Dhaka">(GMT+06:00) Dhaka</option>
-                                                            <option data-offset="21600" value="Almaty">(GMT+06:00) Almaty</option>
-                                                            <option data-offset="21600" value="Urumqi">(GMT+06:00) Urumqi</option>
-                                                            <option data-offset="23400" value="Rangoon">(GMT+06:30) Rangoon</option>
-                                                            <option data-offset="25200" value="Novosibirsk">(GMT+07:00) Novosibirsk</option>
-                                                            <option data-offset="25200" value="Bangkok">(GMT+07:00) Bangkok</option>
-                                                            <option data-offset="25200" value="Hanoi">(GMT+07:00) Hanoi</option>
-                                                            <option data-offset="25200" value="Jakarta">(GMT+07:00) Jakarta</option>
-                                                            <option data-offset="25200" value="Krasnoyarsk">(GMT+07:00) Krasnoyarsk</option>
-                                                            <option data-offset="28800" value="Beijing">(GMT+08:00) Beijing</option>
-                                                            <option data-offset="28800" value="Chongqing">(GMT+08:00) Chongqing</option>
-                                                            <option data-offset="28800" value="Hong Kong">(GMT+08:00) Hong Kong</option>
-                                                            <option data-offset="28800" value="Kuala Lumpur">(GMT+08:00) Kuala Lumpur</option>
-                                                            <option data-offset="28800" value="Singapore">(GMT+08:00) Singapore</option>
-                                                            <option data-offset="28800" value="Taipei">(GMT+08:00) Taipei</option>
-                                                            <option data-offset="28800" value="Perth">(GMT+08:00) Perth</option>
-                                                            <option data-offset="28800" value="Irkutsk">(GMT+08:00) Irkutsk</option>
-                                                            <option data-offset="28800" value="Ulaan Bataar">(GMT+08:00) Ulaan Bataar</option>
-                                                            <option data-offset="32400" value="Seoul">(GMT+09:00) Seoul</option>
-                                                            <option data-offset="32400" value="Osaka">(GMT+09:00) Osaka</option>
-                                                            <option data-offset="32400" value="Sapporo">(GMT+09:00) Sapporo</option>
-                                                            <option data-offset="32400" value="Tokyo">(GMT+09:00) Tokyo</option>
-                                                            <option data-offset="32400" value="Yakutsk">(GMT+09:00) Yakutsk</option>
-                                                            <option data-offset="34200" value="Darwin">(GMT+09:30) Darwin</option>
-                                                            <option data-offset="34200" value="Adelaide">(GMT+09:30) Adelaide</option>
-                                                            <option data-offset="36000" value="Canberra">(GMT+10:00) Canberra</option>
-                                                            <option data-offset="36000" value="Melbourne">(GMT+10:00) Melbourne</option>
-                                                            <option data-offset="36000" value="Sydney">(GMT+10:00) Sydney</option>
-                                                            <option data-offset="36000" value="Brisbane">(GMT+10:00) Brisbane</option>
-                                                            <option data-offset="36000" value="Hobart">(GMT+10:00) Hobart</option>
-                                                            <option data-offset="36000" value="Vladivostok">(GMT+10:00) Vladivostok</option>
-                                                            <option data-offset="36000" value="Guam">(GMT+10:00) Guam</option>
-                                                            <option data-offset="36000" value="Port Moresby">(GMT+10:00) Port Moresby</option>
-                                                            <option data-offset="36000" value="Solomon Is.">(GMT+10:00) Solomon Is.</option>
-                                                            <option data-offset="39600" value="Magadan">(GMT+11:00) Magadan</option>
-                                                            <option data-offset="39600" value="New Caledonia">(GMT+11:00) New Caledonia</option>
-                                                            <option data-offset="43200" value="Fiji">(GMT+12:00) Fiji</option>
-                                                            <option data-offset="43200" value="Kamchatka">(GMT+12:00) Kamchatka</option>
-                                                            <option data-offset="43200" value="Marshall Is.">(GMT+12:00) Marshall Is.</option>
-                                                            <option data-offset="43200" value="Auckland">(GMT+12:00) Auckland</option>
-                                                            <option data-offset="43200" value="Wellington">(GMT+12:00) Wellington</option>
-                                                            <option data-offset="46800" value="Nuku'alofa">(GMT+13:00) Nuku'alofa</option>
-                                                        </select>
+                                                        <input class="form-control form-control-lg form-control-solid" id="chargePeptide" name="chargePeptide" type="text" placeholder="Charge" />
                                                     </div>
                                                 </div>
-                                                <div class="form-group row align-items-center">
-                                                    <label class="col-xl-3 col-lg-3 col-form-label">Communication</label>
-                                                    <div class="col-lg-9 col-xl-6">
-                                                        <div class="checkbox-inline">
-                                                            <label class="checkbox">
-                                                                <input name="communication" type="checkbox" />
-                                                                <span></span>Email</label>
-                                                            <label class="checkbox">
-                                                                <input name="communication" type="checkbox" />
-                                                                <span></span>SMS</label>
-                                                            <label class="checkbox">
-                                                                <input name="communication" type="checkbox" />
-                                                                <span></span>Phone</label>
-                                                        </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="struc2DPeptide">Structure 2D Peptide</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="struc2DPeptide" name="struc2DPeptide" type="text" placeholder="Structure 2D" />
                                                     </div>
                                                 </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="small">Small</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="small" name="struc2DPeptide" type="number" placeholder="Small" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="tiny">Tiny</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="tiny" name="struc2DPeptide" type="number" placeholder="Tiny" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="hydrophobe">Hydrophobic</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="hydrophobe" name="hydrophobe" type="number" placeholder="Hydrophobic" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="polar">Polar</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid"
+                                                               id="polar" name="polar" type="number" placeholder="Polar" />
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </div>
                                     </div>
                                     <!--end::Step 2-->
                                     <!--begin::Step 3-->
                                     <div class="pb-5" data-wizard-type="step-content">
-                                        <h3 class="mb-10 font-weight-bold text-dark">Setup Your Current Location</h3>
-                                        <div class="form-group">
-                                            <label>Address Line 1</label>
-                                            <input type="text" class="form-control form-control-lg form-control-solid" name="address1" placeholder="Address Line 1" value="Address Line 1" />
-                                            <span class="form-text text-muted">Please enter your Address.</span>
-                                        </div>
-                                        <div class="form-group">
-                                            <label>Address Line 2</label>
-                                            <input type="text" class="form-control form-control-lg form-control-solid" name="address2" placeholder="Address Line 2" value="Address Line 2" />
-                                            <span class="form-text text-muted">Please enter your Address.</span>
-                                        </div>
+                                        <h3 class="mb-10 font-weight-bold text-dark">Peptide Last Details</h3>
                                         <div class="row">
-                                            <div class="col-xl-6">
-                                                <div class="form-group">
-                                                    <label>Postcode</label>
-                                                    <input type="text" class="form-control form-control-lg form-control-solid" name="postcode" placeholder="Postcode" value="3000" />
-                                                    <span class="form-text text-muted">Please enter your Postcode.</span>
+                                            <div class="col-xl-12">
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="aliphatic">Aliphatic</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="aliphatic" name="aliphatic" type="number" placeholder="Aliphatic" />
+                                                    </div>
                                                 </div>
-                                            </div>
-                                            <div class="col-xl-6">
-                                                <div class="form-group">
-                                                    <label>City</label>
-                                                    <input type="text" class="form-control form-control-lg form-control-solid" name="city" placeholder="City" value="Melbourne" />
-                                                    <span class="form-text text-muted">Please enter your City.</span>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="aromatic">Aromatic</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="aromatic" name="aromatic" type="text" placeholder="Aromatic" />
+                                                    </div>
                                                 </div>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-xl-6">
-                                                <div class="form-group">
-                                                    <label>State</label>
-                                                    <input type="text" class="form-control form-control-lg form-control-solid" name="state" placeholder="State" value="VIC" />
-                                                    <span class="form-text text-muted">Please enter your State.</span>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="charged">Charged</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="charged" name="charged" type="number" placeholder="Charged" />
+                                                    </div>
                                                 </div>
-                                            </div>
-                                            <div class="col-xl-6">
-                                                <div class="form-group">
-                                                    <label>Country</label>
-                                                    <select name="country" class="form-control form-control-lg form-control-solid">
-                                                        <option value="">Select</option>
-                                                        <option value="AF">Afghanistan</option>
-                                                        <option value="AX">Åland Islands</option>
-                                                        <option value="AL">Albania</option>
-                                                        <option value="DZ">Algeria</option>
-                                                        <option value="AS">American Samoa</option>
-                                                        <option value="AD">Andorra</option>
-                                                        <option value="AO">Angola</option>
-                                                        <option value="AI">Anguilla</option>
-                                                        <option value="AQ">Antarctica</option>
-                                                        <option value="AG">Antigua and Barbuda</option>
-                                                        <option value="AR">Argentina</option>
-                                                        <option value="AM">Armenia</option>
-                                                        <option value="AW">Aruba</option>
-                                                        <option value="AU" selected="selected">Australia</option>
-                                                        <option value="AT">Austria</option>
-                                                        <option value="AZ">Azerbaijan</option>
-                                                        <option value="BS">Bahamas</option>
-                                                        <option value="BH">Bahrain</option>
-                                                        <option value="BD">Bangladesh</option>
-                                                        <option value="BB">Barbados</option>
-                                                        <option value="BY">Belarus</option>
-                                                        <option value="BE">Belgium</option>
-                                                        <option value="BZ">Belize</option>
-                                                        <option value="BJ">Benin</option>
-                                                        <option value="BM">Bermuda</option>
-                                                        <option value="BT">Bhutan</option>
-                                                        <option value="BO">Bolivia, Plurinational State of</option>
-                                                        <option value="BQ">Bonaire, Sint Eustatius and Saba</option>
-                                                        <option value="BA">Bosnia and Herzegovina</option>
-                                                        <option value="BW">Botswana</option>
-                                                        <option value="BV">Bouvet Island</option>
-                                                        <option value="BR">Brazil</option>
-                                                        <option value="IO">British Indian Ocean Territory</option>
-                                                        <option value="BN">Brunei Darussalam</option>
-                                                        <option value="BG">Bulgaria</option>
-                                                        <option value="BF">Burkina Faso</option>
-                                                        <option value="BI">Burundi</option>
-                                                        <option value="KH">Cambodia</option>
-                                                        <option value="CM">Cameroon</option>
-                                                        <option value="CA">Canada</option>
-                                                        <option value="CV">Cape Verde</option>
-                                                        <option value="KY">Cayman Islands</option>
-                                                        <option value="CF">Central African Republic</option>
-                                                        <option value="TD">Chad</option>
-                                                        <option value="CL">Chile</option>
-                                                        <option value="CN">China</option>
-                                                        <option value="CX">Christmas Island</option>
-                                                        <option value="CC">Cocos (Keeling) Islands</option>
-                                                        <option value="CO">Colombia</option>
-                                                        <option value="KM">Comoros</option>
-                                                        <option value="CG">Congo</option>
-                                                        <option value="CD">Congo, the Democratic Republic of the</option>
-                                                        <option value="CK">Cook Islands</option>
-                                                        <option value="CR">Costa Rica</option>
-                                                        <option value="CI">Côte d'Ivoire</option>
-                                                        <option value="HR">Croatia</option>
-                                                        <option value="CU">Cuba</option>
-                                                        <option value="CW">Curaçao</option>
-                                                        <option value="CY">Cyprus</option>
-                                                        <option value="CZ">Czech Republic</option>
-                                                        <option value="DK">Denmark</option>
-                                                        <option value="DJ">Djibouti</option>
-                                                        <option value="DM">Dominica</option>
-                                                        <option value="DO">Dominican Republic</option>
-                                                        <option value="EC">Ecuador</option>
-                                                        <option value="EG">Egypt</option>
-                                                        <option value="SV">El Salvador</option>
-                                                        <option value="GQ">Equatorial Guinea</option>
-                                                        <option value="ER">Eritrea</option>
-                                                        <option value="EE">Estonia</option>
-                                                        <option value="ET">Ethiopia</option>
-                                                        <option value="FK">Falkland Islands (Malvinas)</option>
-                                                        <option value="FO">Faroe Islands</option>
-                                                        <option value="FJ">Fiji</option>
-                                                        <option value="FI">Finland</option>
-                                                        <option value="FR">France</option>
-                                                        <option value="GF">French Guiana</option>
-                                                        <option value="PF">French Polynesia</option>
-                                                        <option value="TF">French Southern Territories</option>
-                                                        <option value="GA">Gabon</option>
-                                                        <option value="GM">Gambia</option>
-                                                        <option value="GE">Georgia</option>
-                                                        <option value="DE">Germany</option>
-                                                        <option value="GH">Ghana</option>
-                                                        <option value="GI">Gibraltar</option>
-                                                        <option value="GR">Greece</option>
-                                                        <option value="GL">Greenland</option>
-                                                        <option value="GD">Grenada</option>
-                                                        <option value="GP">Guadeloupe</option>
-                                                        <option value="GU">Guam</option>
-                                                        <option value="GT">Guatemala</option>
-                                                        <option value="GG">Guernsey</option>
-                                                        <option value="GN">Guinea</option>
-                                                        <option value="GW">Guinea-Bissau</option>
-                                                        <option value="GY">Guyana</option>
-                                                        <option value="HT">Haiti</option>
-                                                        <option value="HM">Heard Island and McDonald Islands</option>
-                                                        <option value="VA">Holy See (Vatican City State)</option>
-                                                        <option value="HN">Honduras</option>
-                                                        <option value="HK">Hong Kong</option>
-                                                        <option value="HU">Hungary</option>
-                                                        <option value="IS">Iceland</option>
-                                                        <option value="IN">India</option>
-                                                        <option value="ID">Indonesia</option>
-                                                        <option value="IR">Iran, Islamic Republic of</option>
-                                                        <option value="IQ">Iraq</option>
-                                                        <option value="IE">Ireland</option>
-                                                        <option value="IM">Isle of Man</option>
-                                                        <option value="IL">Israel</option>
-                                                        <option value="IT">Italy</option>
-                                                        <option value="JM">Jamaica</option>
-                                                        <option value="JP">Japan</option>
-                                                        <option value="JE">Jersey</option>
-                                                        <option value="JO">Jordan</option>
-                                                        <option value="KZ">Kazakhstan</option>
-                                                        <option value="KE">Kenya</option>
-                                                        <option value="KI">Kiribati</option>
-                                                        <option value="KP">Korea, Democratic People's Republic of</option>
-                                                        <option value="KR">Korea, Republic of</option>
-                                                        <option value="KW">Kuwait</option>
-                                                        <option value="KG">Kyrgyzstan</option>
-                                                        <option value="LA">Lao People's Democratic Republic</option>
-                                                        <option value="LV">Latvia</option>
-                                                        <option value="LB">Lebanon</option>
-                                                        <option value="LS">Lesotho</option>
-                                                        <option value="LR">Liberia</option>
-                                                        <option value="LY">Libya</option>
-                                                        <option value="LI">Liechtenstein</option>
-                                                        <option value="LT">Lithuania</option>
-                                                        <option value="LU">Luxembourg</option>
-                                                        <option value="MO">Macao</option>
-                                                        <option value="MK">Macedonia, the former Yugoslav Republic of</option>
-                                                        <option value="MG">Madagascar</option>
-                                                        <option value="MW">Malawi</option>
-                                                        <option value="MY">Malaysia</option>
-                                                        <option value="MV">Maldives</option>
-                                                        <option value="ML">Mali</option>
-                                                        <option value="MT">Malta</option>
-                                                        <option value="MH">Marshall Islands</option>
-                                                        <option value="MQ">Martinique</option>
-                                                        <option value="MR">Mauritania</option>
-                                                        <option value="MU">Mauritius</option>
-                                                        <option value="YT">Mayotte</option>
-                                                        <option value="MX">Mexico</option>
-                                                        <option value="FM">Micronesia, Federated States of</option>
-                                                        <option value="MD">Moldova, Republic of</option>
-                                                        <option value="MC">Monaco</option>
-                                                        <option value="MN">Mongolia</option>
-                                                        <option value="ME">Montenegro</option>
-                                                        <option value="MS">Montserrat</option>
-                                                        <option value="MA">Morocco</option>
-                                                        <option value="MZ">Mozambique</option>
-                                                        <option value="MM">Myanmar</option>
-                                                        <option value="NA">Namibia</option>
-                                                        <option value="NR">Nauru</option>
-                                                        <option value="NP">Nepal</option>
-                                                        <option value="NL">Netherlands</option>
-                                                        <option value="NC">New Caledonia</option>
-                                                        <option value="NZ">New Zealand</option>
-                                                        <option value="NI">Nicaragua</option>
-                                                        <option value="NE">Niger</option>
-                                                        <option value="NG">Nigeria</option>
-                                                        <option value="NU">Niue</option>
-                                                        <option value="NF">Norfolk Island</option>
-                                                        <option value="MP">Northern Mariana Islands</option>
-                                                        <option value="NO">Norway</option>
-                                                        <option value="OM">Oman</option>
-                                                        <option value="PK">Pakistan</option>
-                                                        <option value="PW">Palau</option>
-                                                        <option value="PS">Palestinian Territory, Occupied</option>
-                                                        <option value="PA">Panama</option>
-                                                        <option value="PG">Papua New Guinea</option>
-                                                        <option value="PY">Paraguay</option>
-                                                        <option value="PE">Peru</option>
-                                                        <option value="PH">Philippines</option>
-                                                        <option value="PN">Pitcairn</option>
-                                                        <option value="PL">Poland</option>
-                                                        <option value="PT">Portugal</option>
-                                                        <option value="PR">Puerto Rico</option>
-                                                        <option value="QA">Qatar</option>
-                                                        <option value="RE">Réunion</option>
-                                                        <option value="RO">Romania</option>
-                                                        <option value="RU">Russian Federation</option>
-                                                        <option value="RW">Rwanda</option>
-                                                        <option value="BL">Saint Barthélemy</option>
-                                                        <option value="SH">Saint Helena, Ascension and Tristan da Cunha</option>
-                                                        <option value="KN">Saint Kitts and Nevis</option>
-                                                        <option value="LC">Saint Lucia</option>
-                                                        <option value="MF">Saint Martin (French part)</option>
-                                                        <option value="PM">Saint Pierre and Miquelon</option>
-                                                        <option value="VC">Saint Vincent and the Grenadines</option>
-                                                        <option value="WS">Samoa</option>
-                                                        <option value="SM">San Marino</option>
-                                                        <option value="ST">Sao Tome and Principe</option>
-                                                        <option value="SA">Saudi Arabia</option>
-                                                        <option value="SN">Senegal</option>
-                                                        <option value="RS">Serbia</option>
-                                                        <option value="SC">Seychelles</option>
-                                                        <option value="SL">Sierra Leone</option>
-                                                        <option value="SG">Singapore</option>
-                                                        <option value="SX">Sint Maarten (Dutch part)</option>
-                                                        <option value="SK">Slovakia</option>
-                                                        <option value="SI">Slovenia</option>
-                                                        <option value="SB">Solomon Islands</option>
-                                                        <option value="SO">Somalia</option>
-                                                        <option value="ZA">South Africa</option>
-                                                        <option value="GS">South Georgia and the South Sandwich Islands</option>
-                                                        <option value="SS">South Sudan</option>
-                                                        <option value="ES">Spain</option>
-                                                        <option value="LK">Sri Lanka</option>
-                                                        <option value="SD">Sudan</option>
-                                                        <option value="SR">Suriname</option>
-                                                        <option value="SJ">Svalbard and Jan Mayen</option>
-                                                        <option value="SZ">Swaziland</option>
-                                                        <option value="SE">Sweden</option>
-                                                        <option value="CH">Switzerland</option>
-                                                        <option value="SY">Syrian Arab Republic</option>
-                                                        <option value="TW">Taiwan, Province of China</option>
-                                                        <option value="TJ">Tajikistan</option>
-                                                        <option value="TZ">Tanzania, United Republic of</option>
-                                                        <option value="TH">Thailand</option>
-                                                        <option value="TL">Timor-Leste</option>
-                                                        <option value="TG">Togo</option>
-                                                        <option value="TK">Tokelau</option>
-                                                        <option value="TO">Tonga</option>
-                                                        <option value="TT">Trinidad and Tobago</option>
-                                                        <option value="TN">Tunisia</option>
-                                                        <option value="TR">Turkey</option>
-                                                        <option value="TM">Turkmenistan</option>
-                                                        <option value="TC">Turks and Caicos Islands</option>
-                                                        <option value="TV">Tuvalu</option>
-                                                        <option value="UG">Uganda</option>
-                                                        <option value="UA">Ukraine</option>
-                                                        <option value="AE">United Arab Emirates</option>
-                                                        <option value="GB">United Kingdom</option>
-                                                        <option value="US">United States</option>
-                                                        <option value="UM">United States Minor Outlying Islands</option>
-                                                        <option value="UY">Uruguay</option>
-                                                        <option value="UZ">Uzbekistan</option>
-                                                        <option value="VU">Vanuatu</option>
-                                                        <option value="VE">Venezuela, Bolivarian Republic of</option>
-                                                        <option value="VN">Viet Nam</option>
-                                                        <option value="VG">Virgin Islands, British</option>
-                                                        <option value="VI">Virgin Islands, U.S.</option>
-                                                        <option value="WF">Wallis and Futuna</option>
-                                                        <option value="EH">Western Sahara</option>
-                                                        <option value="YE">Yemen</option>
-                                                        <option value="ZM">Zambia</option>
-                                                        <option value="ZW">Zimbabwe</option>
-                                                    </select>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="positive">Positive</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="positive" name="positive" type="number" placeholder="Positive" />
+                                                    </div>
                                                 </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="negative">Negative</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="negative" name="negative" type="number" placeholder="Negative" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="hydrophobicity">Hydrophobicity</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="hydrophobicity" name="hydrophobicity" type="number" placeholder="Hydrophobicity" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="NN">NN</label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="NN" name="NN" type="number" placeholder="NN" />
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label class="col-xl-3 col-lg-3 col-form-label" for="descPeptide">Description Peptide </label>
+                                                    <div class="col-lg-9 col-xl-9">
+                                                        <input class="form-control form-control-lg form-control-solid" id="descPeptide" name="descPeptide" type="text" placeholder="Description" />
+                                                    </div>
+                                                </div>
+
                                             </div>
-                                        </div>
+                                    </div>
                                     </div>
                                     <!--end::Step 3-->
                                     <!--begin::Step 4-->
                                     <div class="pb-5" data-wizard-type="step-content">
                                         <h4 class="mb-10 font-weight-bold">Review your Details and Submit</h4>
-                                        <h6 class="font-weight-bold mb-3">Project Details:</h6>
+                                        <h6 class="font-weight-bold mb-3">Peptide Details 1:</h6>
                                         <table class="w-100">
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Name:</td>
-                                                <td class="font-weight-bold text-right">Loop Inc CRM App</td>
+                                                <td class="font-weight-bold text-muted">Peptide Sequence:</td>
+                                                <td class="font-weight-bold text-right">Da4V</td>
                                             </tr>
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Phone:</td>
-                                                <td class="font-weight-bold text-right">+61412345678</td>
+                                                <td class="font-weight-bold text-muted">Peptide Family:</td>
+                                                <td class="font-weight-bold text-right">Oligopeptides</td>
                                             </tr>
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Email:</td>
-                                                <td class="font-weight-bold text-right">johnwick@reeves.com</td>
+                                                <td class="font-weight-bold text-muted">Protein Name:</td>
+                                                <td class="font-weight-bold text-right">Cysteine</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Origin:</td>
+                                                <td class="font-weight-bold text-right">Origin-2</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Peptide Size:</td>
+                                                <td class="font-weight-bold text-right">3</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Number Crystal Peptide:</td>
+                                                <td class="font-weight-bold text-right">15</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Weight Peptide:</td>
+                                                <td class="font-weight-bold text-right">4</td>
                                             </tr>
                                         </table>
                                         <div class="separator separator-dashed my-5"></div>
-                                        <h6 class="font-weight-bold mb-3">Delivery Info:</h6>
+                                        <h6 class="font-weight-bold mb-3">Peptide Details 2:</h6>
                                         <table class="w-100">
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Address Line 1:</td>
-                                                <td class="font-weight-bold text-right">Fox Avenue 5-6B</td>
+                                                <td class="font-weight-bold text-muted">Number amino acids:</td>
+                                                <td class="font-weight-bold text-right">12</td>
                                             </tr>
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Address Line 2:</td>
-                                                <td class="font-weight-bold text-right">Melbourne VIC</td>
+                                                <td class="font-weight-bold text-muted">Charge Peptide:</td>
+                                                <td class="font-weight-bold text-right">4.2</td>
                                             </tr>
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Post:</td>
-                                                <td class="font-weight-bold text-right">3000</td>
+                                                <td class="font-weight-bold text-muted">Structure 2D Peptide:</td>
+                                                <td class="font-weight-bold text-right">4,5</td>
                                             </tr>
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Country:</td>
-                                                <td class="font-weight-bold text-right">Australia</td>
+                                                <td class="font-weight-bold text-muted">Small:</td>
+                                                <td class="font-weight-bold text-right">0.2</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Tiny:</td>
+                                                <td class="font-weight-bold text-right">3</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Hydrophobic:</td>
+                                                <td class="font-weight-bold text-right">7</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Polar:</td>
+                                                <td class="font-weight-bold text-right">8.1</td>
                                             </tr>
                                         </table>
                                         <div class="separator separator-dashed my-5"></div>
-                                        <h6 class="font-weight-bold mb-3">Payment Details:</h6>
+                                        <h6 class="font-weight-bold mb-3">Peptide Details 3:</h6>
                                         <table class="w-100">
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Card Number:</td>
-                                                <td class="font-weight-bold text-right">xxxx xxxx xxxx 1111</td>
+                                                <td class="font-weight-bold text-muted">Aliphatic:</td>
+                                                <td class="font-weight-bold text-right">1.2</td>
                                             </tr>
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Card Name:</td>
-                                                <td class="font-weight-bold text-right">John Wick</td>
+                                                <td class="font-weight-bold text-muted">Aromatic:</td>
+                                                <td class="font-weight-bold text-right">0.55</td>
                                             </tr>
                                             <tr>
-                                                <td class="font-weight-bold text-muted">Card Expiry:</td>
-                                                <td class="font-weight-bold text-right">01/21</td>
+                                                <td class="font-weight-bold text-muted">Charged:</td>
+                                                <td class="font-weight-bold text-right">6</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Positive:</td>
+                                                <td class="font-weight-bold text-right">1</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Negative:</td>
+                                                <td class="font-weight-bold text-right">-2</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Hydrophobicity:</td>
+                                                <td class="font-weight-bold text-right">9.2</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">NN:</td>
+                                                <td class="font-weight-bold text-right">15</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="font-weight-bold text-muted">Description Peptide:</td>
+                                                <td class="font-weight-bold text-right">alpine root </td>
                                             </tr>
                                         </table>
                                     </div>
@@ -836,6 +479,7 @@
                                         </div>
                                     </div>
                                     <!--end::Actions-->
+
                                 </form>
                                 <!--end::Form Wizard-->
                             </div>
