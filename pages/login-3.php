@@ -1,4 +1,9 @@
 
+<?php
+function chemin ($ch){
+    return "../public/".$ch;
+}
+?>
 <!DOCTYPE html>
 
 <html lang="en">

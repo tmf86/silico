@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2318edd-5ac8-437b-ae10-9c343b81fb5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/add_PepPhageExpression.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/add_PlatePepSythesis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/add_PlateSythesis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/add_family.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/add_origin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/add_phageExpression.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/list_PepPhageExpression.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/list_PlatePepSythesis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/list_PlateSythesis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/list_family.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/list_origin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/list_phageExpression.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/add_pep.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/add_pep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/layout/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/footer_file.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/layout/footer_file.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/layout/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/layout/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/list_pep.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/list_pep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login-3.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login-3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logo-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logo-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logo-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/list-datatable.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/list-datatable.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +51,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages" />
     </key>
@@ -50,7 +74,11 @@
       <workItem from="1625695219043" duration="40000" />
       <workItem from="1626558042219" duration="1001000" />
       <workItem from="1626557337473" duration="6063000" />
-      <workItem from="1626687076833" duration="16918000" />
+      <workItem from="1626687076833" duration="19797000" />
+      <workItem from="1626788944070" duration="228000" />
+      <workItem from="1629310397834" duration="2513000" />
+      <workItem from="1629310639947" duration="16424000" />
+      <workItem from="1629389396349" duration="4753000" />
     </task>
     <servers />
   </component>
@@ -58,10 +86,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="513" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1626688340884">
+    <state x="513" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1629394114327">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="511" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1288.741/72.27.1288.741@72.27.1288.741" timestamp="1625170972377" />
-    <state x="513" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1626688340884" />
+    <state x="513" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1629394114327" />
   </component>
 </project>

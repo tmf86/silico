@@ -1,5 +1,7 @@
 <?php
 ?>
+<?php
+?>
 <!--begin::Content-->
 <div class="content d-flex flex-column flex-column-fluid" id="kt_content">
     <!--begin::Subheader-->
@@ -8,7 +10,7 @@
             <!--begin::Details-->
             <div class="d-flex align-items-center flex-wrap mr-2">
                 <!--begin::Title-->
-                <h5 class="text-dark font-weight-bold mt-2 mb-2 mr-5">Peptides</h5>
+                <h5 class="text-dark font-weight-bold mt-2 mb-2 mr-5">Peptides Origin</h5>
                 <!--end::Title-->
                 <!--begin::Separator-->
                 <div class="subheader-separator subheader-separator-ver mt-2 mb-2 mr-5 bg-gray-200"></div>
@@ -100,8 +102,8 @@
                 <!--begin::Header-->
                 <div class="card-header flex-wrap border-0 pt-6 pb-0">
                     <div class="card-title">
-                        <h3 class="card-label">Peptides Management
-                            <span class="d-block text-muted pt-2 font-size-sm">Peptides management made easy</span></h3>
+                        <h3 class="card-label">Peptides Origin Management
+                            <span class="d-block text-muted pt-2 font-size-sm">Peptides Origin management made easy</span></h3>
                     </div>
                     <div class="card-toolbar">
                         <!--begin::Dropdown-->
@@ -142,7 +144,7 @@
                                     <li class="navi-item">
                                         <a href="#" class="navi-link">
 																<span class="navi-icon">
-																	<i class="fa fa-file-excel-o"></i>
+																	<i class="la la-file-excel-o"></i>
 																</span>
                                             <span class="navi-text">Excel</span>
                                         </a>
@@ -150,7 +152,7 @@
                                     <li class="navi-item">
                                         <a href="#" class="navi-link">
 																<span class="navi-icon">
-																	<i class="fa fa-file-text-o"></i>
+																	<i class="la la-file-text-o"></i>
 																</span>
                                             <span class="navi-text">CSV</span>
                                         </a>
@@ -158,7 +160,7 @@
                                     <li class="navi-item">
                                         <a href="#" class="navi-link">
 																<span class="navi-icon">
-																	<i class="fa fa-file-pdf-o"></i>
+																	<i class="la la-file-pdf-o"></i>
 																</span>
                                             <span class="navi-text">PDF</span>
                                         </a>
@@ -194,30 +196,9 @@
                         <thead>
                         <tr>
                             <th>Record ID</th>
-                            <th>Sequence</th>
-                            <th>Family</th>
-                            <th>Name</th>
-                            <th>Protein Name</th>
-                            <th>Origin</th>
-                            <th>Size</th>
-                            <th>nbr Crystal</th>
-                            <th>Status</th>
-                            <th>Weight</th>
-                            <th>Nbr AA</th>
-                            <th>Charge</th>
-                            <th>Structure 2D</th>
-                            <th>Small</th>
-                            <th>Tiny</th>
-                            <th>Hydrophobe</th>
-                            <th>Polar</th>
-                            <th>Aliphatic</th>
-                            <th>Aromatic</th>
-                            <th>Charged</th>
-                            <th>Positive</th>
-                            <th>Negative</th>
-                            <th>Hydrophobicity </th>
-                            <th>NN</th>
-                            <th>Description</th>
+                            <th>Name Origin</th>
+                            <th>TaxId</th>
+                            <th>Description Origin</th>
                             <th>Actions</th>
                         </tr>
                         </thead>
@@ -226,215 +207,61 @@
                             <td>1</td>
                             <td>64616-103</td>
                             <td>Brazil</td>
-                            <td>São Félix do Xingu</td>
-                            <td>698 Oriole Pass</td>
-                            <td>Hayes Boule</td>
-                            <td>Casper-Kerluke</td>
-                            <td>10/15/2017</td>
-                            <td>5</td>
+                            <td>Brazil</td>
+                            <td nowrap="nowrap">
+                                <div class="dropdown dropdown-inline">
+                                    <a href="javascript:;" class="btn btn-sm btn-clean btn-icon" data-toggle="dropdown">	                                <i class="fa fa-cog"></i>	                            </a>							  	<div class="dropdown-menu dropdown-menu-sm dropdown-menu-right">									<ul class="nav nav-hoverable flex-column">							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-edit"></i><span class="nav-text">Edit Details</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-leaf"></i><span class="nav-text">Update Status</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-print"></i><span class="nav-text">Print</span></a></li>									</ul>							  	</div>							</div>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Edit details">								<i class="fa fa-edit"></i>							</a>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Delete">
+                                    <i class="fa fa-trash"></i>	</a>
+                            </td>
+                        </tr>
+                        <tr>
                             <td>1</td>
-                            <td>Nbr AA</td>
-                            <td>Charge</td>
-                            <td>Structure 2D</td>
-                            <td>Small</td>
-                            <td>Tiny</td>
-                            <td>Hydrophobe</td>
-                            <td>Polar</td>
-                            <td>Aliphatic</td>
-                            <td>Aromatic</td>
-                            <td>Charged</td>
-                            <td>Positive</td>
-                            <td>Negative</td>
-                            <td>Hydrophobicity </td>
-                            <td>NN</td>
-                            <td>Description</td>
-                            <td nowrap="nowrap"></td>
+                            <td>64616-103</td>
+                            <td>Brazil</td>
+                            <td>Brazil</td>
+                            <td nowrap="nowrap">
+                                <div class="dropdown dropdown-inline">
+                                    <a href="javascript:;" class="btn btn-sm btn-clean btn-icon" data-toggle="dropdown">	                                <i class="fa fa-cog"></i>	                            </a>							  	<div class="dropdown-menu dropdown-menu-sm dropdown-menu-right">									<ul class="nav nav-hoverable flex-column">							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-edit"></i><span class="nav-text">Edit Details</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-leaf"></i><span class="nav-text">Update Status</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-print"></i><span class="nav-text">Print</span></a></li>									</ul>							  	</div>							</div>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Edit details">								<i class="fa fa-edit"></i>							</a>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Delete">
+                                    <i class="fa fa-trash"></i>	</a>
+                            </td>
                         </tr>
                         <tr>
-                            <td>2</td>
-                            <td>54868-3377</td>
-                            <td>Vietnam</td>
-                            <td>Bình Minh</td>
-                            <td>8998 Delaware Court</td>
-                            <td>Humbert Bresnen</td>
-                            <td>Hodkiewicz and Sons</td>
-                            <td>4/24/2016</td>
-                            <td>2</td>
-                            <td>2</td>
-                            <td>Nbr AA</td>
-                            <td>Charge</td>
-                            <td>Structure 2D</td>
-                            <td>Small</td>
-                            <td>Tiny</td>
-                            <td>Hydrophobe</td>
-                            <td>Polar</td>
-                            <td>Aliphatic</td>
-                            <td>Aromatic</td>
-                            <td>Charged</td>
-                            <td>Positive</td>
-                            <td>Negative</td>
-                            <td>Hydrophobicity </td>
-                            <td>NN</td>
-                            <td>Description</td>
-                            <td nowrap="nowrap"></td>
-                        </tr>
-                        <tr>
-                            <td>3</td>
-                            <td>0998-0355</td>
-                            <td>Philippines</td>
-                            <td>Palagao Norte</td>
-                            <td>91796 Sutteridge Road</td>
-                            <td>Jareb Labro</td>
-                            <td>Kuhlman Inc</td>
-                            <td>7/11/2017</td>
-                            <td>6</td>
-                            <td>2</td>
-                            <td nowrap="nowrap"></td>
-                        </tr>
-                        <tr>
-                            <td>46</td>
-                            <td>0781-5555</td>
-                            <td>Indonesia</td>
-                            <td>Kotaagung</td>
-                            <td>9 Calypso Road</td>
-                            <td>Bryn Van Castele</td>
-                            <td>Beier-Mante</td>
-                            <td>3/17/2017</td>
-                            <td>5</td>
-                            <td>2</td>
-                            <td>Nbr AA</td>
-                            <td>Charge</td>
-                            <td>Structure 2D</td>
-                            <td>Small</td>
-                            <td>Tiny</td>
-                            <td>Hydrophobe</td>
-                            <td>Polar</td>
-                            <td>Aliphatic</td>
-                            <td>Aromatic</td>
-                            <td>Charged</td>
-                            <td>Positive</td>
-                            <td>Negative</td>
-                            <td>Hydrophobicity </td>
-                            <td>NN</td>
-                            <td>Description</td>
-                            <td nowrap="nowrap"></td>
-                        </tr>
-                        <tr>
-                            <td>47</td>
-                            <td>0378-7004</td>
-                            <td>Sweden</td>
-                            <td>Karlstad</td>
-                            <td>12000 Burrows Street</td>
-                            <td>Tades Gatch</td>
-                            <td>Klocko, Koelpin and Nikolaus</td>
-                            <td>7/10/2016</td>
-                            <td>5</td>
-                            <td>2</td>
-                            <td>Nbr AA</td>
-                            <td>Charge</td>
-                            <td>Structure 2D</td>
-                            <td>Small</td>
-                            <td>Tiny</td>
-                            <td>Hydrophobe</td>
-                            <td>Polar</td>
-                            <td>Aliphatic</td>
-                            <td>Aromatic</td>
-                            <td>Charged</td>
-                            <td>Positive</td>
-                            <td>Negative</td>
-                            <td>Hydrophobicity </td>
-                            <td>NN</td>
-                            <td>Description</td>
-                            <td nowrap="nowrap"></td>
-                        </tr>
-                        <tr>
-                            <td>48</td>
-                            <td>49483-052</td>
-                            <td>Indonesia</td>
-                            <td>Kebonjaya</td>
-                            <td>2 Oakridge Crossing</td>
-                            <td>Reinold Jolland</td>
-                            <td>Zieme-Funk</td>
-                            <td>5/24/2016</td>
-                            <td>4</td>
-                            <td>2</td>
-                            <td>Nbr AA</td>
-                            <td>Charge</td>
-                            <td>Structure 2D</td>
-                            <td>Small</td>
-                            <td>Tiny</td>
-                            <td>Hydrophobe</td>
-                            <td>Polar</td>
-                            <td>Aliphatic</td>
-                            <td>Aromatic</td>
-                            <td>Charged</td>
-                            <td>Positive</td>
-                            <td>Negative</td>
-                            <td>Hydrophobicity </td>
-                            <td>NN</td>
-                            <td>Description</td>
-                            <td nowrap="nowrap"></td>
-                        </tr>
-                        <tr>
-                            <td>49</td>
-                            <td>10812-357</td>
-                            <td>Serbia</td>
-                            <td>Ruma</td>
-                            <td>7 Wayridge Plaza</td>
-                            <td>Ky Brainsby</td>
-                            <td>Towne Inc</td>
-                            <td>11/1/2016</td>
-                            <td>2</td>
-                            <td>3</td>
-                            <td>Nbr AA</td>
-                            <td>Charge</td>
-                            <td>Structure 2D</td>
-                            <td>Small</td>
-                            <td>Tiny</td>
-                            <td>Hydrophobe</td>
-                            <td>Polar</td>
-                            <td>Aliphatic</td>
-                            <td>Aromatic</td>
-                            <td>Charged</td>
-                            <td>Positive</td>
-                            <td>Negative</td>
-                            <td>Hydrophobicity </td>
-                            <td>NN</td>
-                            <td>Description</td>
-                            <td nowrap="nowrap"></td>
-                        </tr>
-                        <tr>
-                            <td>50</td>
-                            <td>49349-222</td>
-                            <td>China</td>
-                            <td>Zhulan</td>
-                            <td>55385 Stoughton Trail</td>
-                            <td>Sheryl Giddings</td>
-                            <td>Grimes, Ryan and Larkin</td>
-                            <td>9/15/2017</td>
-                            <td>3</td>
                             <td>1</td>
-                            <td>Nbr AA</td>
-                            <td>Charge</td>
-                            <td>Structure 2D</td>
-                            <td>Small</td>
-                            <td>Tiny</td>
-                            <td>Hydrophobe</td>
-                            <td>Polar</td>
-                            <td>Aliphatic</td>
-                            <td>Aromatic</td>
-                            <td>Charged</td>
-                            <td>Positive</td>
-                            <td>Negative</td>
-                            <td>Hydrophobicity </td>
-                            <td>NN</td>
-                            <td>Description</td>
-                            <td nowrap="nowrap"></td>
+                            <td>64616-103</td>
+                            <td>Brazil</td>
+                            <td>Brazil</td>
+                            <td nowrap="nowrap">
+                                <div class="dropdown dropdown-inline">
+                                    <a href="javascript:;" class="btn btn-sm btn-clean btn-icon" data-toggle="dropdown">	                                <i class="fa fa-cog"></i>	                            </a>							  	<div class="dropdown-menu dropdown-menu-sm dropdown-menu-right">									<ul class="nav nav-hoverable flex-column">							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-edit"></i><span class="nav-text">Edit Details</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-leaf"></i><span class="nav-text">Update Status</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-print"></i><span class="nav-text">Print</span></a></li>									</ul>							  	</div>							</div>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Edit details">								<i class="fa fa-edit"></i>							</a>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Delete">
+                                    <i class="fa fa-trash"></i>	</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>64616-103</td>
+                            <td>Brazil</td>
+                            <td>Brazil</td>
+                            <td nowrap="nowrap">
+                                <div class="dropdown dropdown-inline">
+                                    <a href="javascript:;" class="btn btn-sm btn-clean btn-icon" data-toggle="dropdown">	                                <i class="fa fa-cog"></i>	                            </a>							  	<div class="dropdown-menu dropdown-menu-sm dropdown-menu-right">									<ul class="nav nav-hoverable flex-column">							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-edit"></i><span class="nav-text">Edit Details</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-leaf"></i><span class="nav-text">Update Status</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-print"></i><span class="nav-text">Print</span></a></li>									</ul>							  	</div>							</div>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Edit details">								<i class="fa fa-edit"></i>							</a>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Delete">
+                                    <i class="fa fa-trash"></i>	</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>64616-103</td>
+                            <td>Brazil</td>
+                            <td>Brazil</td>
+                            <td nowrap="nowrap">
+                                <div class="dropdown dropdown-inline">
+                                    <a href="javascript:;" class="btn btn-sm btn-clean btn-icon" data-toggle="dropdown">	                                <i class="fa fa-cog"></i>	                            </a>							  	<div class="dropdown-menu dropdown-menu-sm dropdown-menu-right">									<ul class="nav nav-hoverable flex-column">							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-edit"></i><span class="nav-text">Edit Details</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-leaf"></i><span class="nav-text">Update Status</span></a></li>							    		<li class="nav-item"><a class="nav-link" href="#"><i class="nav-icon fa fa-print"></i><span class="nav-text">Print</span></a></li>									</ul>							  	</div>							</div>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Edit details">								<i class="fa fa-edit"></i>							</a>							<a href="javascript:;" class="btn btn-sm btn-clean btn-icon" title="Delete">
+                                    <i class="fa fa-trash"></i>	</a>
+                            </td>
                         </tr>
                         </tbody>
                     </table>
                     <!--end: Datatable-->
-<!--                    <div class="datatable datatable-bordered datatable-head-custom" id="kt_datatable"></div>-->
+                    <!--                    <div class="datatable datatable-bordered datatable-head-custom" id="kt_datatable"></div>-->
                     <!--end: Datatable-->
                 </div>
                 <!--end::Body-->
@@ -446,3 +273,5 @@
     <!--end::Entry-->
 </div>
 <!--end::Content-->
+
+

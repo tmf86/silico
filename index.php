@@ -33,6 +33,7 @@ function chemin_1 ($ch){
 
     require "pages/layout/header.php";
     $p= isset($_GET["page"])?$_GET["page"]:"home";
+
     $pages="pages/".$p.".php";
     if (file_exists($pages)){
         require $pages;

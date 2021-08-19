@@ -12,7 +12,7 @@ var KTAppsUsersListDatatable = function() {
 				type: 'remote',
 				source: {
 					read: {
-						url: HOST_URL + 'index.php?page=list_pep',
+						url: HOST_URL + 'index.php?page=list_origin'
 					},
 				},
 				pageSize: 10, // display 20 records per page

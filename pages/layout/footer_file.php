@@ -13,3 +13,6 @@
 <script src="<?= chemin("js/datatables.bundle.js")?>"></script>
 <script src="<?= chemin("js/multiple-controls.js")?>"></script>
 <script src="<?= chemin("js/add-project.js")?>"></script>
+<script src="<?= chemin("js/add-contact.js")?>"></script>
+<script src="<?= chemin("js/select2.js")?>"></script>
+<script src="<?= chemin("js/bootstrap-datetimepicker.js")?>"></script>
